@@ -1,4 +1,4 @@
-package ex_04_Operators;
+package Task_Exercises;
 
 public class Task12March {
     public static void main(String[] args) {
