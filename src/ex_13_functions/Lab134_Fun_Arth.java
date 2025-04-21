@@ -15,10 +15,8 @@ public class Lab134_Fun_Arth {
             //  a, b - int -> Scanner
             //  int -> variable result ->
 
-
             // Step 2 - Rough logic -> Create functions
             // function -> type 4th - with return and with arguments/ parameters
-
 
             // Step 3 - Write the code and Find and Fix  -> Edge Cases
 
@@ -40,7 +38,7 @@ public class Lab134_Fun_Arth {
                 System.out.println("Enter the int only, ");
                 System.exit(0);
             }
-
+            System.out.println("Result");
             int result_sum = sum(a, b);
             int result_sub = sub(a, b);
             int result_mul = mul(a, b);
